@@ -1,11 +1,8 @@
-# Taylors_Swift_lyrics_generation
-
 # Lyrics Generation for Taylor Swift Lyrics Dataset
 
 This project focuses on generating lyrics using various approaches and models applied to Taylor Swift's Lyrics dataset. The project includes basic data analysis, sentiment analysis, lyrics generation using LSTM, GPT2, and image generation for album covers based on the lyrics available in a given album.
 
 ## Table of Contents
-- [Taylors\_Swift\_lyrics\_generation](#taylors_swift_lyrics_generation)
 - [Lyrics Generation for Taylor Swift Lyrics Dataset](#lyrics-generation-for-taylor-swift-lyrics-dataset)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
@@ -22,7 +19,7 @@ In this project, we explore Taylor Swift's Lyrics dataset to gain insights into 
 
 ## Dataset
 
-The dataset used in this project consists of Taylor Swift's lyrics, which can be obtained from [https://www.kaggle.com/datasets/ishikajohari/taylor-swift-all-lyrics-30-albums]. It contains a collection of songs, lyrics, album information, and other relevant attributes.
+The dataset used in this project consists of Taylor Swift's lyrics, which can be obtained from (Kaggle)[https://www.kaggle.com/datasets/ishikajohari/taylor-swift-all-lyrics-30-albums]. It contains a collection of songs, lyrics, album information, and other relevant attributes.
 
 ## Methods and Models
 
